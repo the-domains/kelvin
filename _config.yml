@@ -1,0 +1,23 @@
+name: kelvin
+favicon: null
+layout_spectrum: 0.4158252854831517
+typography_spectrum: 0.6798973854165524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1006531601306051
+  lightness: 0.7541113458573818
+  saturation: 0.05582554335705936
+  rhythmicContrast: 0.4508424897212535
+purpose: []
